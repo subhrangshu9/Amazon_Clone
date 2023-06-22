@@ -1,5 +1,6 @@
 
 # Amazon-Clone :- 
+
       A frontend clone of E-commerce website of Amazon. This is created using HTML,CSS and Vanilla Javascript. The page is created for big screens i.e, laptops, PCs only.
 
 # Technologies :-
@@ -11,7 +12,8 @@
 * Netlify
 
 
-# Screenshot :- 
+# Screenshots :-
+ 
 ![Screenshot (127)](https://github.com/subhrangshu9/Amazon_Clone/assets/74654165/4490c026-b216-47aa-bb0f-8ba9960cd764)
 
 ![Screenshot (128)](https://github.com/subhrangshu9/Amazon_Clone/assets/74654165/ebfce456-2ad0-4116-9987-6f596768f7b0)
@@ -22,6 +24,6 @@
 
 ![Screenshot (131)](https://github.com/subhrangshu9/Amazon_Clone/assets/74654165/981c0279-24a9-47bc-9bf9-08b065245786)
 
-# Live Link:
-
-https://subhrangshu-amazon-clone.netlify.app/
+# Live Link :- 
+    
+    https://subhrangshu-amazon-clone.netlify.app/
