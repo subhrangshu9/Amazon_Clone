@@ -25,5 +25,4 @@
 ![Screenshot (131)](https://github.com/subhrangshu9/Amazon_Clone/assets/74654165/981c0279-24a9-47bc-9bf9-08b065245786)
 
 # Live Link :- 
-    
-    https://subhrangshu-amazon-clone.netlify.app/
+     https://subhrangshu-amazon-clone.netlify.app/
